@@ -1,0 +1,9 @@
+Linux Commands Learned:
+pwd
+ls
+cd
+rm
+cat
+del
+clear
+ni
