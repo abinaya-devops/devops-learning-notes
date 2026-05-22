@@ -16,3 +16,7 @@
 - EC2
 - S3
 - IAM
+## 🎯 Goal
+- Become a DevOps Engineer
+- Learn Cloud & Automation
+- Build real-world projects
