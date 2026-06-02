@@ -1,0 +1,16 @@
+Today i practiced Linux Commands abd git workflow.
+
+Commands Learned:
+pwd
+ls
+cd
+mkdir
+touch
+git add
+git commit
+git push
+git clone 
+git pull
+
+Today I Learned git status command
+learning git branches today...
