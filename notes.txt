@@ -14,3 +14,14 @@ git pull
 
 Today I Learned git status command
 learning git branches today...
+
+Today:
+Linux Commands Learned
+
+cp - Copy files
+mv - Move or rename files
+
+Examples:
+cp notes.txt notes-copy.txt
+mv notes-copy.txt aws-notes.txt
+mv aws-notes.txt backup/
